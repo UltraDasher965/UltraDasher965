@@ -29,7 +29,7 @@ List of malwares in progress:
 - psfxl.exe (C#)
 - slnx.exe (C++, w/ TELEPATHII & N17Pro3426)
   
-## Also, show some support to these people:
+## Also, show some support to these people!:
 - [ConduciveGDI](https://www.youtube.com/@conduciveGDI)
 - [ThunderFishGD](https://www.youtube.com/@ThunderFishGD)
 - [Kimiberry64 / ListopadTheCat](https://www.youtube.com/@listopadthecat)
