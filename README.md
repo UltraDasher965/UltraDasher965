@@ -4,7 +4,7 @@ I'm a 14-year-old French person who likes coding and sometimes making music (sto
 
 Here are some infos for you to know me better:
 - Pronouns: He/Him
-- Disroders?: Yes (autism / anger issues)
+- Disorders?: Yes (autism / anger issues)
 - Currently learning: C++, C#, C, Python, HTML & JavaScript
 - How to reach me: you want my email address don't you
 - Birth date: 23rd of November 2010 (turning 15 in 2 days)
