@@ -11,7 +11,8 @@ Here are some infos for you to know me better:
 
 ## Total malwares made: 21
 <sub>what's 9 + 10</sub>
-
+## Malwares in progress: 5
+One is a ransomware, by the way.
 ## Also, show some support to these people:
 - [ConduciveGDI](https://www.youtube.com/@conduciveGDI)
 - [ThunderFishGD](https://www.youtube.com/@ThunderFishGD)
