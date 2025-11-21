@@ -10,7 +10,7 @@ Here are some infos for you to know me better:
 - How to reach me: you want my email address don't you
 - Birth date: 23rd of November 2010 (turning 15 in 2 days)
 
-##Hobbies:
+## Hobbies:
 - Coding
 - Producer
 - Bytebeater
