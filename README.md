@@ -5,7 +5,7 @@ I'm a 14-year-old French person who likes coding and sometimes making music (sto
 Here are some infos for you to know me better:
 - Pronouns: He/Him
 - Disroders?: Yes (autism / anger issues)
-- Currently learning: C++, C#, Python, HTML & JavaScript
+- Currently learning: C++, C#, C, Python, HTML & JavaScript
 - How to reach me: you want my email address don't you
 - Birth date: 23rd of November 2010 (turning 15 in 2 days)
 
@@ -13,6 +13,12 @@ Here are some infos for you to know me better:
 <sub>what's 9 + 10</sub>
 ## Malwares in progress: 5
 One is a ransomware, by the way.
+List of malwares in progress:
+- Tetrabenzylzirconium.exe (C++)
+- AiRansom.exe (C# and Python, w/ Elias/hackbou_888)
+- Tetrabenzylmethane.exe (C, monoxide modification w/ TELEPATHII & Number333)
+- qw69ebixA5-2.0.exe
+- Cadmium-2.0.exe
 ## Also, show some support to these people:
 - [ConduciveGDI](https://www.youtube.com/@conduciveGDI)
 - [ThunderFishGD](https://www.youtube.com/@ThunderFishGD)
