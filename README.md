@@ -11,14 +11,16 @@ Here are some infos for you to know me better:
 
 ## Total malwares made: 21
 <sub>what's 9 + 10</sub>
-## Malwares in progress: 5
+## Malwares in progress: 7
 One is a ransomware, by the way.
 List of malwares in progress:
 - Tetrabenzylzirconium.exe (C++)
 - AiRansom.exe (C# and Python, w/ Elias/hackbou_888)
 - Tetrabenzylmethane.exe (C, monoxide modification w/ TELEPATHII & Number333)
-- qw69ebixA5-2.0.exe
-- Cadmium-2.0.exe
+- qw69ebixA5-2.0.exe (C++, original by me & N17Pro3426)
+- Cadmium-2.0.exe (C++, original by me & TELEPATHII)
+- psfxl.exe (C#)
+- slnx.exe (C++, w/ TELEPATHII & N17Pro3426)
 ## Also, show some support to these people:
 - [ConduciveGDI](https://www.youtube.com/@conduciveGDI)
 - [ThunderFishGD](https://www.youtube.com/@ThunderFishGD)
