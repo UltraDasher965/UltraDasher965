@@ -9,12 +9,15 @@ Here are some infos for you to know me better:
 - Currently learning: C++, C#, C, Python, HTML & JavaScript
 - How to reach me: you want my email address don't you
 - Birth date: 23rd of November 2010 (turning 15 in 2 days)
+
 ##Hobbies:
 - Coding
 - Producer
 - Bytebeater
+  
 ## Total malwares made: 21
 <sub>what's 9 + 10</sub>
+
 ## Malwares in progress: 7
 One is a ransomware, by the way.
 List of malwares in progress:
@@ -25,6 +28,7 @@ List of malwares in progress:
 - Cadmium-2.0.exe (C++, original by me & TELEPATHII)
 - psfxl.exe (C#)
 - slnx.exe (C++, w/ TELEPATHII & N17Pro3426)
+  
 ## Also, show some support to these people:
 - [ConduciveGDI](https://www.youtube.com/@conduciveGDI)
 - [ThunderFishGD](https://www.youtube.com/@ThunderFishGD)
