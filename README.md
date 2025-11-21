@@ -1,16 +1,20 @@
-## Hi there 👋
+# Welcome to my GitHub profile!
 
-<!--
-**UltraDasher965/UltraDasher965** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 14-year-old French person who likes coding and sometimes making music (stopped for a while).
 
-Here are some ideas to get you started:
+Here are some infos for you to know me better:
+- Pronouns: He/Him
+- Disroders?: Yes (autism / anger issues)
+- Currently learning: C++, C#, Python, HTML & JavaScript
+- How to reach me: you want my email address don't you
+- Birth date: 23rd of November 2010 (turning 15 in 2 days)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Total malwares made: 21
+<sub>what's 9 + 10</sub>
+
+## Also, show some support to these people:
+- [ConduciveGDI](https://www.youtube.com/@conduciveGDI)
+- [ThunderFishGD](https://www.youtube.com/@ThunderFishGD)
+- [Kimiberry64 / ListopadTheCat](https://www.youtube.com/@listopadthecat)
+- [Cyber Soldier](https://www.youtube.com/@ClutterTech)
+- [ChrisRM380](https://www.youtube.com/@ChrisRM_380)
