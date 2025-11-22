@@ -8,7 +8,7 @@ Here are some infos for you to know me better:
 - Disorders?: Yes (autism / anger issues)
 - Currently learning: C++, C#, C, Python, HTML & JavaScript
 - How to reach me: you want my email address don't you
-- Birth date: 23rd of November 2010 (turning 15 in 2 days)
+- Birth date: 23rd of November 2010 (turning 15 tomorrow)
 
 ## Hobbies:
 - Coding
