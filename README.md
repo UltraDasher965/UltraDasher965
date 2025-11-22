@@ -35,3 +35,4 @@ List of malwares in progress:
 - [Kimiberry64 / ListopadTheCat](https://www.youtube.com/@listopadthecat)
 - [Cyber Soldier](https://www.youtube.com/@ClutterTech)
 - [ChrisRM380](https://www.youtube.com/@ChrisRM_380)
+- [VenraTech](https://youtube.com/@twofivesixsevennine?si=ZZBF0YSHwPcMPtLf)
