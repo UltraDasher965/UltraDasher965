@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile!
 
-I'm a 14-year-old French person who likes coding and sometimes making music (stopped for a while).
+I'm a 15-year-old French person who likes coding and sometimes making music (stopped for a while).
 I'm also slowly re-integrating myself in the LEC community.
 
 Here are some infos for you to know me better:
@@ -8,7 +8,7 @@ Here are some infos for you to know me better:
 - Disorders?: Yes (autism / anger issues)
 - Currently learning: C++, C#, C, Python, HTML & JavaScript
 - How to reach me: you want my email address don't you
-- Birth date: 23rd of November 2010 (turning 15 tomorrow)
+- Birth date: 23rd of November 2010
 
 ## Hobbies:
 - Coding
