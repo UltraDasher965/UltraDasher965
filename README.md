@@ -14,6 +14,8 @@ Here are some infos for you to know me better:
 - Coding
 - Producer
 - Bytebeater
+- Artist
+- Gamer
   
 ## Total malwares made: 21
 <sub>what's 9 + 10</sub>
