@@ -17,9 +17,6 @@ Here are some infos for you to know me better:
 - Artist
 - Gamer
   
-## Total malwares made: 21
-<sub>what's 9 + 10</sub>
-
 ## Malwares in progress: 7
 One is a ransomware, by the way.
 List of malwares in progress:
