@@ -1,7 +1,6 @@
 # Welcome to my GitHub profile!
 
 I'm a 15-year-old French person who likes coding and sometimes making music (stopped for a while).
-I'm also slowly re-integrating myself in the LEC community.
 
 Here are some infos for you to know me better:
 - Pronouns: He/Him
